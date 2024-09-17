@@ -1,5 +1,6 @@
-# 💫 About Me:
-👨‍🎓 I'm an Aspiring AI/ML Architect<br>🔭 I’m currently working on Data Science<br>💬 Ask me about anything, I am happy to help<br>✍ I'm a Technical blogger with 10,000+ user reads<br>🌱 I'm currently learning:<br>Data Structures and Algorithms <br>Tools and technologies from Python ecosystem<br>👯 Join my community if you're a tech enthusiast<br>📬 How to reach me: alensocreations@gmail.com<br>📝 Resume.<br>💪 This is where I write, code and solve problems:
+# Welcome to [Alen's](https://www.linkedin.com/in/alensomaxx/) profile! <a href="https://www.linkedin.com/in/alensomaxx/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Glad to see you here!
+👨‍🎓 I'm an Aspiring AI/ML Architect<br>🔭 I’m currently working on Data Science<br>💬 Ask me about anything, I am happy to help<br>✍ I'm a Tech Enthusiast<br>🌱 I'm currently learning:<br>Data Structures and Algorithms <br>Tools and technologies from Python ecosystem<br>👯 Join my community if you're a tech enthusiast<br>📬 How to reach me: alensocreations@gmail.com<br>📝 Resume.<br>💪 This is where I write, code and solve problems:
 
 
 ## 🌐 Socials:
@@ -21,4 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alensomaxx&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📕Latest Blog Posts
+
+- [Artificial Intelligence in Healthcare: Revolutionizing Patient Care](https://www.linkedin.com/posts/alensomaxx_as-we-continue-to-harness-the-power-of-ai-activity-7187997815971745792-ae05?utm_source=share&utm_medium=member_desktop)
+<!-- GPRM  -->
+
