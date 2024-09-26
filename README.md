@@ -1,6 +1,7 @@
 # Welcome to [Alen's](https://www.linkedin.com/in/alensomaxx/) profile! <a href="https://www.linkedin.com/in/alensomaxx/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## Glad to see you here!
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
+<br>
 👨‍🎓 I'm an Aspiring AI/ML Architect<br>🔭 I’m currently working on Data Science<br>💬 Ask me about anything, I am happy to help<br>✍ I'm a Tech Enthusiast<br>🌱 I'm currently learning:<br>Data Structures and Algorithms <br>Tools and technologies from Python ecosystem<br>👯 Join my community if you're a tech enthusiast<br>📬 How to reach me: alensocreations@gmail.com<br>📝 Resume.<br>💪 This is where I write, code and solve problems:
 
 
